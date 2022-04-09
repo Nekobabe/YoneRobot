@@ -1,8 +1,8 @@
 <p align="center">
-    <a href="https://github.com/noob-kittu/YoneRobot/stargazers"><img src="https://img.shields.io/github/stars/noob-kittu/YoneRobot?label=Stars&style=flat-square&logo=github&color=F10070" alt="Stars" /></a>
+    <a href="https://github.com/nekobabe/YoneRobot/stargazers"><img src="https://img.shields.io/github/stars/nekobabe/YoneRobot?label=Stars&style=flat-square&logo=github&color=F10070" alt="Stars" /></a>
 </p>
 <p align="center">
-    <a href="https://github.com/noob-kittu/YoneRobot"> <img src="https://img.shields.io/github/repo-size/noob-kittu/YoneRobot?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/nekobabe/YoneRobot"> <img src="https://img.shields.io/github/repo-size/nekobabe/YoneRobot?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
     <a href="https://github.com/nekobabe/YoneRobot/commits/prince"> <img src="https://img.shields.io/github/last-commit/nekobabe/YoneRobot?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
     <a href="https://github.com/nekobabe/YoneRobot/issues"> <img src="https://img.shields.io/github/issues/nekobabe/YoneRobot?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
     <a href="https://github.com/nekobabe/YoneRobot/network/members"> <img src="https://img.shields.io/github/forks/nekobabe/YoneRobot?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
@@ -14,7 +14,7 @@
 </p>
 
 # BabeNekoBot
-Me On Telegram [✨Neko✨](https://t.me/@BaBe_NeKo_BoT)
+Me On Telegram [✨Cherry✨](https://t.me/@Cute_Cherry_Bot)
 
 ## How To Host
 The easiest way to deploy this Bot
